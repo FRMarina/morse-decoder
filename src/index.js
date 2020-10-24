@@ -76,7 +76,7 @@ let frase = '';
     }
   }
   }
-  return console.log(frase);
+  return frase;
 
 }
 
